@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\bin\Debug\EXEPABD.exe.config
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\bin\Debug\EXEPABD.exe
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\bin\Debug\EXEPABD.pdb
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.Properties.Resources.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.exe
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.pdb
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.login.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.DataGrid.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.HalamanUtama.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.CardView.resources
+C:\Users\Asus\OneDrive - Universitas Muhammadiyah Yogyakarta\TUGAS KULIAH\SEMESTER 4\Pengembangan Aplikasi Basis Data\exe3\EXEPABD\obj\Debug\EXEPABD.BindingNav.resources
